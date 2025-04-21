@@ -1,3 +1,1 @@
-# Заголовок 1
-## Заголовок 2
-### Заголовок 3
+Оптимизация SVG (https://jakearchibald.github.io/svgomg/)
